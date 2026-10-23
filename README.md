@@ -30,7 +30,7 @@ Pegawai mengisi form pengajuan cuti dalam beberapa tahap, mulai dari memilih jen
 
 ### 3. Persetujuan Berjenjang
 
-Pengajuan diproses bertahap oleh beberapa peran, yaitu atasan langsung, pejabat berwenang, dan tahap berikutnya. Setiap peran memiliki tampilan untuk menyetujui atau menolak pengajuan.
+Pengajuan diproses bertahap oleh beberapa peran, yaitu up, atasan langsung dan pejabat berwenang. Setiap peran memiliki tampilan untuk menyetujui atau menolak pengajuan.
 
 <p>
   <img src="screenshoot/confirm_atasan1.png" width="160">
@@ -99,7 +99,7 @@ flutter run
 
 ## Peran Saya
 
-Saya mengerjakan sisi **frontend mobile**: desain antarmuka, integrasi REST API, manajemen state dengan Provider, dan alur persetujuan multi-role. Backend dikerjakan oleh tim lain.
+Saya mengerjakan sisi **frontend mobile**: desain antarmuka, integrasi REST API, manajemen state dengan Provider, dan alur persetujuan multi-role. Backend dikerjakan oleh tim lain (senior saya).
 
 ## Kontak
 
