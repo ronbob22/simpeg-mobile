@@ -49,9 +49,9 @@ Pegawai dapat mengajukan pembatalan cuti yang sudah diajukan atau disetujui. Pem
 <p>
   <img src="screenshoot/pengajuan_pembatalan1.png" height="320">
   <img src="screenshoot/pengajuan_pembatalan2.png" height="320">
-  <img src="screenshoot/Pengajuan_pembatalan3.png" height="320">
+  <img src="screenshoot/Pengajuan_pembatalan3_rev.png" height="320">
   <img src="screenshoot/pengajuan_pembatalan4.png" height="320">
-  <img src="screenshoot/batalkan_konfirmasi.png" height="320">
+  <img src="screenshoot/batalkan_konfirmasi_rev.png" height="320">
 </p>
 
 ### 5. Riwayat
