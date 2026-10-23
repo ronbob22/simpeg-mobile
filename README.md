@@ -10,7 +10,7 @@ Pegawai masuk melalui halaman login, lalu diarahkan ke beranda yang menampilkan 
 
 <p>
   <img src="screenshoot/login.png" height="320">
-  <img src="screenshoot/home.png" height="320">
+  <img src="screenshoot/home_2.png" height="320">
   <img src="screenshoot/search_cuti.png" height="320">
   <img src="screenshoot/saldo_cuti.png" height="320">
   <img src="screenshoot/profil.png" height="320">
